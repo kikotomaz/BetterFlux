@@ -10,3 +10,6 @@ Works with any configuration of article icons.
 ## Installation
 
 To use it, simply clone this repo into your ./extensions directory and enable it in the extension panel in FreshRSS
+```bash
+$ git clone https://github.com/kikotomaz/BetterFlux.git [your-freshrss-root]/extensions/
+```
