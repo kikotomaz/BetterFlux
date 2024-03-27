@@ -1,0 +1,44 @@
+.flux_header{
+	display: flex;
+	flex-wrap: wrap;
+}
+.flux .item.title {
+	width: 100% !important;
+	max-width: 100% !important;
+	margin-left: 1rem;
+}
+.flux .item.websiteName{
+	width: 100%;
+}
+.flux .item.website{
+	width: fit-content;
+}
+
+.summary{
+	margin-top: .2rem;
+	color: gray !important;
+	font-size: .85em !important;
+	line-height: 1.25em;
+}
+
+img.favicon{
+	height: 1em;
+	width: auto;
+	max-width:100%;
+	margin: auto .25rem auto 0;
+}
+
+.flux .item.date{
+	position:absolute;
+	bottom:0;
+	right:1rem;
+	text-align:right;
+	width:fit-content;
+}
+
+.flux .item.link{
+	position:absolute;
+	top:0;
+	right:1rem;
+	text-align:right;
+}

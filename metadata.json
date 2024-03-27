@@ -1,0 +1,8 @@
+{
+	"name": "Better Flux",
+	"author": "KiKO TOMAZ",
+	"description": "description",
+	"version": 0.0,
+	"entrypoint": "BetterFlux",
+	"type": "user"
+}
