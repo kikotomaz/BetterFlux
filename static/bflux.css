@@ -9,7 +9,12 @@
 }
 .flux .item.websiteName{
 	width: 100%;
+    color: black;
+    padding: .1rem 1rem;
+    border-radius: 1rem;
+    margin-left: .5rem;
 }
+
 .flux .item.website{
 	width: fit-content;
 }

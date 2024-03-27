@@ -27,12 +27,6 @@ function colorize(mList) {
 	entry.forEach((e, i) => {
 		const cl = stringToColour(e.textContent) + 66;
 		e.style.background = cl;
-		e.style.color = "black"
-		e.style.padding = ".1rem 1rem"
-		e.style.borderRadius = "1rem"
-		e.style.marginLeft = ".5rem"
-
-		console.log(e);
 	});
 }
 
