@@ -1,7 +1,7 @@
 # FreshRSS Better Flux
 
-Modified version of the [ColorfulList](https://github.com/shinemoon/FreshRSS-Dev/tree/master/extensions/xExtension-ColorfulList) extension to only color the name of the feed
-+ some tweaks to the flux layout
+Modified version of the [ColorfulList](https://github.com/shinemoon/FreshRSS-Dev/tree/master/extensions/xExtension-ColorfulList) extension to only color the name of the feed.
+Plus some small tweaks to the flux layout
 
 ![screenshot](screenshot.png)
 
