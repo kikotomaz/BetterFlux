@@ -1,5 +1,7 @@
 # FreshRSS Better Flux
 
+An extension for the RSS reader [FreshRSS](https://www.freshrss.org/)
+
 Modified version of the [ColorfulList](https://github.com/shinemoon/FreshRSS-Dev/tree/master/extensions/xExtension-ColorfulList) extension to only color the name of the feed.
 Plus some small tweaks to the flux layout
 
