@@ -33,7 +33,7 @@ img.favicon{
 	margin: auto .25rem auto 0;
 }
 
-.flux .item.date{
+.flux_header .item.date{
 	position:absolute;
 	bottom:0;
 	right:1rem;
@@ -41,7 +41,7 @@ img.favicon{
 	width:fit-content;
 }
 
-.flux .item.link{
+.flux_header .item.link{
 	position:absolute;
 	top:0;
 	right:1rem;
